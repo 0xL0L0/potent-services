@@ -1,0 +1,26 @@
+{
+  "name": "com.potency.services",
+  "version": "1.0.0",
+  "displayName": "Potency Game Services",
+  "description": "A simple game framework for Unity games.",
+  "unity": "6000.2",
+  "unityRelease": "7f2",
+  "documentationUrl": "https://github.com/0xL0L0/potent-services",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.unity.addressables": "2.7.3",
+    "com.unity.test-framework": "1.6.0"
+  },
+  "keywords": [
+    "potent",
+    "potency",
+    "game",
+    "services"
+  ],
+  "author": {
+    "name": "Robert Gesicki",
+    "email": "robertgesicki@gmail.com",
+    "url": "https://www.robertgesicki.com"
+  }
+}
