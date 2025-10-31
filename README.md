@@ -1,2 +1,4 @@
 # potent-services
-A suite of services to make Unity development easier.
+A simple suite of services to make Unity development easier.
+
+WIP
