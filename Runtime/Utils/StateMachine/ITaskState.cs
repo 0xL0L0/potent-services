@@ -15,4 +15,3 @@ namespace Potency.Services.Runtime.Utils.StateMachine
 		/// </summary>
 		UniTask<IState> RunTask();
 	}
-}

@@ -25,11 +25,11 @@ namespace Potency.Services.Runtime.Utils.Logging.Editor
         private const string SymbolInfo = "LOG_LEVEL_INFO";
         private const string SymbolVerbose = "LOG_LEVEL_VERBOSE";
 
-        private const string MenuNameNone = "Matchday/Logging/None";
-        private const string MenuNameError = "Matchday/Logging/Error";
-        private const string MenuNameWarn = "Matchday/Logging/Warning";
-        private const string MenuNameInfo = "Matchday/Logging/Info";
-        private const string MenuNameVerbose = "Matchday/Logging/Verbose";
+        private const string MenuNameNone = "Potent/Logging/None";
+        private const string MenuNameError = "Potent/Logging/Error";
+        private const string MenuNameWarn = "Potent/Logging/Warning";
+        private const string MenuNameInfo = "Potent/Logging/Info";
+        private const string MenuNameVerbose = "Potent/Logging/Verbose";
 
         private static readonly List<string> _currentDefineSymbols;
 

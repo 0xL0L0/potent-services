@@ -18,8 +18,8 @@ namespace Potency.Services.Runtime.Utils.Environment.Editor
         private const string SYMBOL_STAGING = "TARGET_STAGING";
         private const string SYMBOL_PRODUCTION = "TARGET_PRODUCTION";
 
-        private const string MENU_NAME_STAGING = "Matchday/Environment/Staging";
-        private const string MENU_NAME_PRODUCTION = "Matchday/Environment/Production";
+        private const string MENU_NAME_STAGING = "Potent/Environment/Staging";
+        private const string MENU_NAME_PRODUCTION = "Potent/Environment/Production";
         
         private static readonly List<string> _currentDefineSymbols;
         

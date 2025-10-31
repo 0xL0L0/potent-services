@@ -12,4 +12,3 @@
 		/// </summary>
 		IState CheckTriggerTransition(IStateEvent trigger);
 	}
-}
