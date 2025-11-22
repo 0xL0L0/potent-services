@@ -4,21 +4,6 @@ namespace Potency.Services.Runtime.Utils
 {
     public static class Extensions
     {
-        public static int AsMs(this float number)
-        {
-            return (int) (number * 1000);
-        }
-        
-        public static int AsMs(this long number)
-        {
-            return (int) (number * 1000);
-        }
-        
-        public static int AsMs(this double number)
-        {
-            return (int) (number * 1000);
-        }
-
         public static void TryAppendAuthHeader(this UnityWebRequest request, string authToken)
         {
             if (!string.IsNullOrEmpty(authToken))

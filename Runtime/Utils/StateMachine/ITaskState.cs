@@ -1,7 +1,7 @@
 ﻿using System;
 using Cysharp.Threading.Tasks;
 
-namespace Potency.Services.Runtime.Utils.StateMachine
+namespace Potency.Services.Utils.StateMachine
 {
 	public interface ITaskState : IState
 	{
@@ -15,3 +15,4 @@ namespace Potency.Services.Runtime.Utils.StateMachine
 		/// </summary>
 		UniTask<IState> RunTask();
 	}
+}

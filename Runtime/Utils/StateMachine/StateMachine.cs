@@ -2,7 +2,7 @@
 using Cysharp.Threading.Tasks;
 using Potency.Services.Runtime.Utils.Logging;
 
-namespace Potency.Services.Runtime.Utils.StateMachine
+namespace Potency.Services.Utils.StateMachine
 {
     public class StateMachine : IStateMachine, IDisposable
     {

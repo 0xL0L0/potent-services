@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Potency.Services.Runtime.Utils.StateMachine
+namespace Potency.Services.Utils.StateMachine
 {
     public class EventState : State, IEventState
     {

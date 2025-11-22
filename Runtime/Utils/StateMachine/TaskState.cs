@@ -1,7 +1,7 @@
 ﻿using System;
 using Cysharp.Threading.Tasks;
 
-namespace Potency.Services.Runtime.Utils.StateMachine
+namespace Potency.Services.Utils.StateMachine
 {
 	public class TaskState : State, ITaskState
 	{
